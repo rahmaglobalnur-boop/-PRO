@@ -9,6 +9,7 @@
 | `docs/NUR_DESIGN_SYSTEM.md` | `Minimalizm` | Apple Monochrome × Laguta. Токены, шрифты, компоненты, Manhaj-фильтр, UX-паттерны. Стандарт для FURSAN·FURKAN, TASLIM, NUR Mediaholding |
 | `docs/RAHMAGLOBAL_UZ_DESIGN_PRINCIPLES.md` | `claude-dizayn-Rahmaglobal.1` | Система сайта rahmaglobal.uz: Ammar + Interphases, cream/ink, Apple-нейтрали для SEO-страниц, правила Impeccable |
 | `docs/LAGUTA_REFERENCES.md` | `A.LAGUTA` | Разбор референсов Лагуты (GRID, OPERA AUSTRALIA, скриншоты) |
+| `.claude/skills/apple-design` | роадмап владельца | Apple Design Skills: 9 разделов от HIG до реальных проектов |
 | `.claude/skills/nur-design-standard` | `Minimalizm` | Автоприменение NUR-стандарта |
 | `.claude/skills/cheap-generation` | `Minimalizm` | Генерация картинок/видео через Artlist вместо Higgsfield |
 | `.claude/skills/brief-interview` | `COMANDOS` | Бриф кнопками → мега-ТЗ перед стройкой |
