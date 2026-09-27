@@ -16,6 +16,7 @@
 | Репозиторий | Что там |
 |---|---|
 | `-PRO` | Эта база: CLAUDE.md, дизайн-системы, скилы |
+| `apple-design-skills` | Исходник скила apple-design (SKILL.md, install.sh) |
 | `Minimalizm` | NUR Design System (Apple Monochrome × Laguta) |
 | `A.LAGUTA` | Референсы Лагуты (картинки) |
 | `COMANDOS` | Скилы brief-interview, design-jury, verify-site |
